@@ -1,0 +1,12 @@
+empno,empname,sal,HRA,deptno,deptname,loc
+100,MaHesh,ABC,1200,10,Hr,hyd
+101,rajesh,20000,1500,10,marketing,hyd
+102,kalyan,15000,1000,20,finance,hyd
+103,bharath,8000,ggg,50,finance,hyd
+102,kalyan,1000,1000,20,finance,hyd
+102,kalyan,5000,1000,20,financedkkkkkkkkkkkk,che
+102,kal123,18009,10009,29,HR,del
+100,MaHesh,10000,1200,20,Hr,hyd
+101,rajesh,20000,1500,30,marketing,hyd
+102,kalyan,15000,1000,20,finance,hyd
+103,bharath,8000,800,,finance,hyd
